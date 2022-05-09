@@ -8,5 +8,7 @@
 /tmp/
 /breeze-icons
 
+/*.gem
+
 dist
 node_modules
