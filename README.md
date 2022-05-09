@@ -2,14 +2,14 @@
 
 <h1 align="center">Breeze Icons Rails</h1>
 <p align="center">Breeze Icons for Rails Projects</p>
-<!-- <div align="center">
+<div align="center">
   <a href="https://rubygems.org/gems/breeze_icons_rails">
-    <img src="http://img.shields.io/gem/v/breeze_icons_rails.svg" alt="Gem Version">
+    <img src="https://img.shields.io/gem/v/breeze_icons_rails.svg" alt="Gem Version">
   </a>
   <a href="https://rubygems.org/gems/breeze_icons_rails">
     <img src="https://img.shields.io/gem/dt/breeze_icons_rails.svg" alt="Gem Downloads">
   </a>
-</div> -->
+</div>
 
 <p align="center">Icons: <a href="https://wilfison.github.io/breeze_icons_rails/">wilfison.github.io/breeze_icons_rails</a></p>
 
