@@ -1,0 +1,11 @@
+{
+  "name": "breeze_icons_rails",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wilfison <wilfisonbatista@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.5.2",
+    "grunt-webfonts": "^4.0.2"
+  }
+}
